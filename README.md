@@ -24,7 +24,6 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
-
 <<<<<<< HEAD
 # Ветки в Git
 
