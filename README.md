@@ -24,3 +24,9 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
+
+# Ветки в Git 
+
+Чтобы создать ветку, необходимо выполнить команду `git branch %BRANCH_NAME%`.
+
+Для перехода в ветку есть команда `git checkout %BRANCH_NAME%`.
